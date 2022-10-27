@@ -1,0 +1,16 @@
+PODS:
+  - weeklySessac (0.1.0)
+
+DEPENDENCIES:
+  - weeklySessac (from `../`)
+
+EXTERNAL SOURCES:
+  weeklySessac:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  weeklySessac: 5b1142b080bcaaee0cac261e8522c5f0ea6e0cff
+
+PODFILE CHECKSUM: fdb9be51dde10e6f7782c7202eac4deba04bc7d7
+
+COCOAPODS: 1.11.3

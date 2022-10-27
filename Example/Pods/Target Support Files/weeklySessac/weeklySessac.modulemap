@@ -1,0 +1,6 @@
+framework module weeklySessac {
+  umbrella header "weeklySessac-umbrella.h"
+
+  export *
+  module * { export * }
+}
