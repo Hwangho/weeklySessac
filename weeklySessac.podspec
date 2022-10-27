@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'weeklySessac'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'A short description of weeklySessac.'
 
 # This description is used to generate tags and improve search results.
@@ -32,7 +32,7 @@ TODO: Add long description of the pod here.
   
   s.swift_version   = '4.0'
 
-  s.source_files = 'weeklySessac/Classes/**/*'
+  s.source_files = 'Sources/weeklySessac/Classes/**/*'
   
   # s.resource_bundles = {
   #   'weeklySessac' => ['weeklySessac/Assets/*.png']

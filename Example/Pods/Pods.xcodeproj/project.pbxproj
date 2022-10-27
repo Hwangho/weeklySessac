@@ -39,7 +39,7 @@
 
 /* Begin PBXFileReference section */
 		0DB1894201D853960CF8BD73CC25D43E /* Pods-weeklySessac_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-weeklySessac_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		0E614810290AED2000F7BFF2 /* CObservable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CObservable.swift; path = weeklySessac/Classes/CObservable.swift; sourceTree = "<group>"; };
+		0E614810290AED2000F7BFF2 /* CObservable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CObservable.swift; path = Sources/weeklySessac/Classes/CObservable.swift; sourceTree = "<group>"; };
 		1634762E2AC9B4379A0354615A9635DE /* Pods-weeklySessac_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-weeklySessac_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		1BCB15972D769F8FF5811D942DEB21F9 /* Pods-weeklySessac_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-weeklySessac_Tests.modulemap"; sourceTree = "<group>"; };
 		1D70FE6DB8623438CABA315B0D627E28 /* Pods-weeklySessac_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-weeklySessac_Tests"; path = Pods_weeklySessac_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -57,7 +57,7 @@
 		4FFB9C880F24C2D570B241B73E5F15BC /* Pods-weeklySessac_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-weeklySessac_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		50AE10DA809638A0E72648B36441C501 /* weeklySessac.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = weeklySessac.debug.xcconfig; sourceTree = "<group>"; };
 		60D5650D1E83CF5D4F043D7947DD8F61 /* weeklySessac-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "weeklySessac-Info.plist"; sourceTree = "<group>"; };
-		6972DD95E1ABE9CD4224BEA4C963AACA /* weeklySessac.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = weeklySessac.swift; path = weeklySessac/Classes/weeklySessac.swift; sourceTree = "<group>"; };
+		6972DD95E1ABE9CD4224BEA4C963AACA /* weeklySessac.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = weeklySessac.swift; path = Sources/weeklySessac/Classes/weeklySessac.swift; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		810E60B33C7ED4EEDA143968CBF6294F /* Pods-weeklySessac_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-weeklySessac_Example"; path = Pods_weeklySessac_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B39AC64AABB8F3A67A91F6E5E709559 /* Pods-weeklySessac_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-weeklySessac_Example-umbrella.h"; sourceTree = "<group>"; };
