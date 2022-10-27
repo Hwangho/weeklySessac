@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'weeklySessac_Example' do
+  pod 'weeklySessac', :path => '../'
+
+  target 'weeklySessac_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
